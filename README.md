@@ -9,7 +9,7 @@
 💡 Passionate about solving real-world problems through technology  
 🔬 Exploring **Cadence Virtuoso**, **Xilinx Vivado**, and **STM32**  
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40">](www.linkedin.com/in/ananya-k-8527a3265)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40">](https://www.linkedin.com/in/ananya-k-8527a3265)
 
 
 
