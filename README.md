@@ -3,6 +3,7 @@
 
 ## Hi 👋, I'm Ananya! 
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjB2YTE0YTA3bDkxNGM0YWMyNHFxdm9nOHYyb21hc2JjOTk0a2l0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rwB9IjV1zYcRa/giphy.gif" height="400" width="400" />
+
 🚀 **Electronics & Communication Engineer | VLSI Enthusiast**  
 
 💡 Passionate about solving real-world problems through technology  
