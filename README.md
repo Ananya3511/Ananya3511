@@ -7,14 +7,14 @@
 🚀 **Electronics & Communication Engineer | VLSI Enthusiast**  
 
 💡 Passionate about solving real-world problems through technology  
-🔬 Exploring **Cadence Virtuoso**, **Xilinx Vivado**, and **STM32**  
+🔬 Exploring **Analog and Digital Layouts** and **FPGA'S**
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40">](https://www.linkedin.com/in/ananya-k-8527a3265)
 
 
 
 ### 🛠️ Languages and Tools I worked on
-
+**Cadence Virtuoso**, **Xilinx Vivado**, **STM32**, **Vrilog** 
 <div align="left">
   <!-- img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logo=verilog&logoColor=white&shape=circle" />
   <img width="10" /-->
