@@ -14,7 +14,7 @@
 
 
 ### 🛠️ Languages and Tools I worked on
-**Cadence Virtuoso**, **Xilinx Vivado**, **STM32**, **Vrilog** 
+**Cadence Virtuoso**, **Xilinx Vivado**, **STM32**, **Verilog** 
 <div align="left">
   <!-- img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logo=verilog&logoColor=white&shape=circle" />
   <img width="10" /-->
