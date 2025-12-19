@@ -10,7 +10,7 @@
 🔬 Exploring **Analog and Digital Layouts** and **FPGA'S**
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40">](https://www.linkedin.com/in/ananya-k-8527a3265)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg" height="40" alt="Discord">](https://discord.gg/Scc3B5h8)
+<!-- [<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg" height="40" alt="Discord">](https://discord.gg/Scc3B5h8) /-->
 
 
 
@@ -41,7 +41,8 @@
 - **Building Real-World Embedded Projects**
 
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ananya3511&theme=light) --> 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya3511&layout=compact&theme=light)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya3511&layout=compact&cache_seconds=86400)
+
 
 
 
