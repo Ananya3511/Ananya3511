@@ -40,10 +40,7 @@
 - **Exploring Advanced VLSI Concepts**
 - **Building Real-World Embedded Projects**
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ananya3511&theme=light) --> 
-<a href="https://github.com/Ananya3511">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya3511&layout=compact&theme=default&langs_count=8&cache_seconds=86400" />
-</a>
+
 
 
 
